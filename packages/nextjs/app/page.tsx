@@ -33,7 +33,7 @@ const Home: NextPage = () => {
         <div className="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
           <div>
             <p className="text-sm font-medium uppercase tracking-wide text-primary">Team-based Ethereum voting</p>
-            <h1 className="mt-2 text-4xl font-bold leading-tight md:text-5xl">Vote on Action</h1>
+            <h1 className="mt-2 text-4xl font-bold leading-tight md:text-5xl">Vote On Action</h1>
             <p className="mt-3 max-w-2xl text-base text-base-content/70">
               Active proposals from your teams, recorded on-chain with wallet-signed votes.
             </p>
